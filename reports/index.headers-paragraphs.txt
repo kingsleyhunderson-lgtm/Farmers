@@ -1,0 +1,58 @@
+﻿163 | <p> Our Story
+185 | <p> <span>Serving America&#039;s Nurturing the Next Generation of Growers..</span>
+185 | <h1> Empowering farmers and learners with practical knowledge in crops, livestock, and sustainable agriculture.
+185 | <p> <span>OUR SERVICES</span>
+185 | <h2> We provide knowledge and tools to help farmers and learners grow productivity and long-term success.
+185 | <p> Maureen-R Farmer LLC** empowers farmers, students, and agricultural communities through practical education in crops, livestock, and sustainable farming  helping growers build smarter, more productive, and eco-friendly farms.
+<br />Â
+186 | <h4> Farm &amp; Ranch
+186 | <h4> Real Estate
+186 | <h4> Energy
+186 | <h4> Appraisals
+186 | <h4> Hunting Leasing
+186 | <h4> Forestry
+186 | <h4> Insurance
+186 | <h4> FNC Securities
+186 | <h2> We are proud to be 100% employee owned!
+190 | <p> Our roots run deep. What began as a passion for farming and learning has grown into a mission to educate and empower the next generation of growers. At Maureen-R Farmer LLC, we carry forward a legacy of knowledge, sustainability, and community to strengthen agriculture for the future.<br />
+196 | <h2> Proudly independent and community-driven, built by farmers and educators dedicated to sustainable growth.
+196 | <p> Our roots run deep. What began as a passion for farming and learning has grown into a mission to educate and empower the next generation of growers. At Maureen-R Farmer LLC, we carry forward a legacy of knowledge, sustainability, and community to strengthen agriculture for the future.<br />
+196 | <p> <span>Contact Us</span>
+196 | <h2> Get More Information From MRF
+200 | <p> Stay updated on crop trends, livestock care, and new agricultural learning opportunities. Subscribe to get insights, tips, and updates from Maureen-R Farmer LLC.
+206 | <p> <span>Contact Us</span>
+206 | <h2> Get More Information From MRF
+206 | <p> Stay updated on crop trends, livestock care, and new agricultural learning opportunities. Subscribe to get insights, tips, and updates from Maureen-R Farmer LLC.
+206 | <h2> Upcoming Events!
+208 | <p> <span>Workshop</span>
+214 | <p> <span>Workshop</span>
+218 | <p> <span>Real Estate</span>
+218 | <h2> We are trusted experts in agricultural education and farm development.
+218 | <p> <span>Newly Listed</span>
+218 | <p> 4
+218 | <h4> L-2600041
+218 | <p> Logan County, Illinois
+218 | <p> 125.15 &#177; Acres
+220 | <p> 12
+220 | <h4> L-2600058
+220 | <p> Thayer County, Nebraska
+220 | <p> 77.81 &#177; Acres
+222 | <p> 4
+222 | <h4> L-2600054
+222 | <p> Chickasaw County, Iowa
+222 | <p> 48.5 &#177; Acres
+224 | <p> <span>News</span>
+224 | <h2> FNC News
+226 | <p> <span>FNC News</span>
+232 | <p> <span>Farm Management</span>
+240 | <p> <span>Client Testimonial</span>
+240 | <p> "Maureen-R Farmerâ€™s agricultural educators are knowledgeable and professional. Their guidance gives me confidence that Iâ€™m making informed and sustainable farming decisions." â€“ Farm Student, North Dakota
+240 | <p> <span>Client Testimonial</span>
+240 | <p> "Maureen-R Farmer brings deep agricultural knowledge and handles every detail with care, giving us peace of mind as learners and farm partners." â€“ Agricultural Program Director
+240 | <p> <span>Client Testimonial</span>
+240 | <p> "Their expertise and transparency give our learners confidence and real progress. I trust Maureen-R Farmer LLC to guide them toward long-term agricultural success." â€“ Program Coordinator, Agri-Education
+240 | <p> <span>Client Testimonial</span>
+240 | <p> "Maureen-R Farmerâ€™s clear communication and deep agricultural expertise make learning and farm management effortless. I receive timely guidance, practical insights, and genuine support  itâ€™s a partnership I truly value." â€“ Agricultural Learner
+244 | <h2> Connect with an expert that knows your area.
+310 | <p> &copy; <span id="currentYear"></span> MAUREEN-R FARMER, LLC. All rights reserved.
+				<script>document.getElementById("currentYear").textContent = new Date().getFullYear();</script>

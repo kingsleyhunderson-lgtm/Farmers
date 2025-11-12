@@ -1,0 +1,33 @@
+Headers and paragraphs extracted from energy.html
+File: c:\My Web Sites\National\energy.html
+
+line 195: <p class="eyebrow eyebrow--fncEnergy eyebrow--primary ..."><span>FNC Energy</span></p>
+line 195: <h2 class="headline ...">Energy Management</h2>
+
+line 217: <p class="eyebrow eyebrow--fncEnergy eyebrow--clear ..."><span>MRF Products</span></p>
+line 217: <h1 class="headline ...">Your trusted source for educational and sustainable farming tools.</h1>
+
+line 221: <p dir="ltr">Farming success begins with knowledge and having the right products makes every step easier and more rewarding. From soil care to crop nutrition, choosing the right tools can transform how you grow and manage your farm.</p>
+line 222: <p dir="ltr">Understanding which products fit your land, crops, and climate can be challenging. That’s where Maureen-R Farmer’s agricultural experts step in helping you select, use, and manage farm tools and resources effectively, so you can focus on what matters most: learning, growing, and thriving.</p>
+
+line 228: <p class="eyebrow eyebrow--fncEnergy"><span>MRF Products</span></p>
+line 228: <h2 class="headline">Your Farm Growth Deserves the Right Tools</h2>
+
+line 259: <p class="eyebrow eyebrow--fncEnergy"><span>Agricultural Products & Learning Tools</span></p>
+line 259: <h2 class="headline">Are You Getting the Most From Your Land and Tools?</h2>
+line 259: <p dir="ltr">We offer a range of products and learning tools designed to improve farm efficiency, support sustainability, and empower you to achieve lasting success in every season.</p>
+
+line 263: multiple <h4 class="b-simpleCard__headline"> entries for cards (Agricultural Products & Education Services / Revenue Processing / Risk Mitigation / GIS Mapping / Consultations / Leasing/Sales ...)
+
+line 273: FAQ block paragraphs: e.g. <p dir="ltr">Our team provides expert support to help you choose, use, and manage the right tools for your crops and livestock. From soil testing kits and crop care guides to digital farm planning tools, we deliver resources that help you grow confidently and efficiently.</p>
+
+line 283: <p class="eyebrow eyebrow--fncEnergy"><span>Our Footprint</span></p>
+line 283: <h2 class="headline">Our resources reach agricultural communities nationwide.</h2>
+line 283: <p dir="ltr">Our agricultural education and farm management experts work with a diverse range of clients including schools, cooperatives, individual farmers, agribusinesses, non-profits, and community organizations. ...</p>
+
+line 287: testimonial eyebrow and quote paragraph(s) (Client Testimonial -> <p>“Craig has been our Mineral Manager for years. His knowledge of the industry is remarkable ...”</p>)
+
+Notes:
+- This file contains the key eyebrow (p.eyebrow), header (h1/h2/h3/h4) and body paragraph (<p>) entries found by searching `energy.html`.
+- Many card headlines are repeated for each card item (h4). I summarized these under line 263 to avoid listing every card headline separately.
+- If you want a fully exhaustive dump (every match verbatim), I can write that as well — say "exhaustive energy report" and I'll expand it.

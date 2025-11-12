@@ -1,0 +1,82 @@
+﻿191 | <p> Sellers
+202 | <p> <span>Auction Methods</span>
+202 | <h2> Auction methods to suit your needs.
+229 | <p> 
+229 | <h1> Your farm and ranch realty journey starts here.
+229 | <p> Getting current location...
+232 | <p> Find available land near you.
+239 | <p> Getting current location...
+239 | <p> Take a look at properties in your area.
+239 | <h2> Your Trusted Real Estate Experts
+239 | <p> Start your farm and ranch realty journey with Farmer National Company. Whether you're in the market to sell land, looking to work with areal estate agent, or connect with serious land buyers, we can help. Our nationwide reach and experience in agricultural real estate and land transactions give you a partnership to confidently navigate every step of the land sale process.
+245 | <h2> Your Trusted Real Estate Experts
+245 | <p> Start your farm and ranch realty journey with Farmer National Company. Whether you're in the market to sell land, looking to work with areal estate agent, or connect with serious land buyers, we can help. Our nationwide reach and experience in agricultural real estate and land transactions give you a partnership to confidently navigate every step of the land sale process.
+245 | <p> <span>Explore</span>
+245 | <h2> Find land for sale
+245 | <p> Browse our online listings to find farmland, undeveloped land, tillable acres, and recreational properties across the country. Search by listing type, land type, property size, price range, and location.
+245 | <p> 4
+245 | <h4> Logan County,<br>Illinois
+247 | <p> 12
+247 | <h4> Thayer County,<br>Nebraska
+249 | <p> 4
+249 | <h4> Chickasaw County,<br>Iowa
+251 | <p> 6
+251 | <h4> Woodford County,<br>Illinois
+253 | <p> 5
+253 | <h4> Sangamon County,<br>Illinois
+255 | <p> 21
+255 | <h4> Stanton County,<br>Kansas
+257 | <p> 9
+257 | <h4> Custer County,<br>Nebraska
+259 | <p> 14
+259 | <h4> Blaine County,<br>Nebraska
+261 | <h2> Search all upcoming auctions
+261 | <p> Search by state, county, acres, and more to find land that is right for you.
+273 | <p> 4
+273 | <h4> Chickasaw County,<br>Iowa
+275 | <p> 12
+275 | <h4> Thayer County,<br>Nebraska
+277 | <p> 4
+277 | <h4> Logan County,<br>Illinois
+279 | <p> 6
+279 | <h4> Woodford County,<br>Illinois
+281 | <p> 45
+281 | <h4> Boyd County,<br>Nebraska
+283 | <p> 6
+283 | <h4> Sarpy County,<br>Nebraska
+285 | <p> <span>We&#039;re Local</span>
+285 | <h2> Connect with a Local Land Expert
+289 | <p> Our farm and ranch real estate agents are located across the U.S. and specialize in helping landowners sell land nationwide. From managing a complex estate to planning a hassle-free sale, we provide a personal service and professional insight into your land's market.
+295 | <p> <span>We&#039;re Local</span>
+295 | <h2> Connect with a Local Land Expert
+295 | <p> Our farm and ranch real estate agents are located across the U.S. and specialize in helping landowners sell land nationwide. From managing a complex estate to planning a hassle-free sale, we provide a personal service and professional insight into your land's market.
+295 | <h2> Sell Your Land With Confidence
+295 | <p> Â
+295 | <p> When you're ready to sell land, FNC knows what matters most. Get results with minimal stress. We connect you with potential buyers, position your property accurately and strategically, and secure the best price based on current market trends.
+295 | <p> Â
+295 | <p> If you're looking to sell land fast, you need a team that can help you price your land competitively and showcase your listing to the right audience.
+301 | <h2> Sell Your Land With Confidence
+301 | <p> Â
+301 | <p> When you're ready to sell land, FNC knows what matters most. Get results with minimal stress. We connect you with potential buyers, position your property accurately and strategically, and secure the best price based on current market trends.
+301 | <p> Â
+301 | <p> If you're looking to sell land fast, you need a team that can help you price your land competitively and showcase your listing to the right audience.
+301 | <p> <span>Contact Us</span>
+301 | <h2> Stay Updated on Land Market Trends
+305 | <p> Subscribe for updates on land value, purchasing land, auction alerts, and expert insight into current market trends from our nationwide team of professionals.
+311 | <p> <span>Contact Us</span>
+311 | <h2> Stay Updated on Land Market Trends
+311 | <p> Subscribe for updates on land value, purchasing land, auction alerts, and expert insight into current market trends from our nationwide team of professionals.
+315 | <p> <span>Client Testimonial</span>
+315 | <p> "The decision to join Farmers National Company as an agent was the best career move I've ever made. They are respected, professional, and honest. Their business philosophy falls right in line with my personal and professional aspirations."
+315 | <p> <span>Client Testimonial</span>
+315 | <p> "FNC helped us through a difficult time in handling our parents' estate with patience and good advice all the way up through closing. I highly recommend them to anyone who is thinking of selling farmland." - R. Stephens
+315 | <p> <span>Client Testimonial</span>
+315 | <p> "Farmers National Company worked on my behalf to get a successful sale taking into account land values, depreciation, etc. This resulted in me getting the best purchase price." - L. Okeson
+315 | <p> <span>Client Testimonial</span>
+315 | <p> "Farmers National Company did another great job getting us top dollar for our properties!" - K. Roberts
+315 | <p> <span>Client Testimonial</span>
+315 | <p> "One-stop shopping to manage, buy, or sell farm properties."
+318 | <h2> Connect with an expert that knows your area.
+398 | <h4> Farmers National Company is a licensed real estate broker in
+398 | <p> Alabama, Arkansas, Colorado, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Washington, Wisconsin, Wyoming
+427 | <p> &copy; <span id="currentYear"></span> Farmers National Company <script>document.getElementById("currentYear").textContent = new Date().getFullYear();</script>
