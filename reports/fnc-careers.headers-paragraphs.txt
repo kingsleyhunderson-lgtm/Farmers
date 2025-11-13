@@ -1,0 +1,104 @@
+﻿81 | <path d="M200-160v-366L88-440l-48-64 440-336 160 122v-82h120v174l160 122-48 64-112-86v366H560v-240H400v240H200Zm200-399h160q0-32-24-52.5T480-632q-32 0-56 20.5T400-559Z"/></svg></a></li><li class=""><a
+                data-header-link
+                href="farm-and-ranch/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Farm &amp; Ranch
+                            </a></li><li class=""><a
+                data-header-link
+                href="real-estate/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Real Estate
+                            </a></li><li class=""><a
+                data-header-link
+                href="energy/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Energy
+                            </a></li><li class=""><a
+                data-header-link
+                href="appraisal/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Appraisals
+                            </a></li><li class=""><a
+                data-header-link
+                href="forestry/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Forestry
+                            </a></li><li class=""><a
+                data-header-link
+                href="insurance/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Insurance
+                            </a></li><li class=""><a
+                data-header-link
+                href="https://www.huntingleasenetwork.com/"
+                target="_blank"
+                class="  u-weight-demi"
+            >
+                                    HLN
+                            </a></li><li class=""><a
+                data-header-link
+                href="https://www.fncagstock.com/"
+                target="_blank"
+                class="  u-weight-demi"
+            >
+                                    FNC Securities
+                            </a></li></ul></nav><nav aria-label="Primary Navigation" class="b-header__primaryNav | c-flow u-flow-space-600 | u-flex-justify-between u-flex-basis-100 u-text-1 | lg:u-flex-order-3 lg:u-flex-align-center lg:u-text-0"><a href="index.html" class="b-header__logo | u-box-hidden | lg:u-box-flex" data-header-link><img src="https://cdn.farmersnational.com/assets/images/logos/Farmers-National-Company-Logo.svg" alt="Farmers National Company Logo"/></a><ul class="b-header__primaryNav__linksList | u-box-flex u-flex-dir-column u-gap-top-0 | lg:u-flex-dir-row u-full lg:u-flex-justify-center" role="list"><li class="b-header__primaryNav__linksList__item | u-box-flex | lg:u-gap-inline-400"><a
+                        href="news.html"
+                        class="b-header__primaryNav__linksList__item__anchor | u-box-flex u-flex-align-center u-pad-block-400 u-pad-inline-400 | lg:u-pad-inline-0 lg:u-pad-block-300 "
+                        data-header-link data-has-children="false"
+                                                     href="news.html"
+                                            ><span>News</span></a></li><li class="b-header__primaryNav__linksList__item | u-box-flex | lg:u-gap-inline-400"><a
+                        href="events.html"
+                        class="b-header__primaryNav__linksList__item__anchor | u-box-flex u-flex-align-center u-pad-block-400 u-pad-inline-400 | lg:u-pad-inline-0 lg:u-pad-block-300 "
+                        data-header-link data-has-children="false"
+                                                     href="events.html"
+                                            ><span>Events</span></a></li><li class="b-header__primaryNav__linksList__item | u-box-flex | lg:u-gap-inline-400"><a
+                        href="our-story.html"
+                        class="b-header__primaryNav__linksList__item__anchor | u-box-flex u-flex-align-center u-pad-block-400 u-pad-inline-400 | lg:u-pad-inline-0 lg:u-pad-block-300 "
+                        data-header-link data-has-children="true"
+                                                     href="our-story.html"
+                                            ><span>Our Story</span><svg class='b-icon '><use href='svg/sprite.svg#chevron-up'></use></svg></a><div class="b-header__primaryNav__linksList__item__subnav"><div class="c-wrapper c-switcher | c-wrapper--sideBreak"><div class='lg:u-max-width-50'><p class="b-header__primaryNav__linksList__item__subnav__headline | text-2 u-box-hidden u-gap-top-600 u-gap-bottom-200 u-weight-demi | lg:u-box-flex">
+                                    Our Story
+                                </p>
+174 | <p class="eyebrow eyebrow--fncCorporate eyebrow--clear u-t-color-grayscale-tertiary-400 | u-tt-upper u-weight-extra-bold u-text-0 u-box-inline-block u-pad-inline-block u-bg-grunge"><span>Career Opportunities</span></p>
+174 | <h1 class="headline u-t-color-grayscale-tertiary-400 u-flow-space-300 u-text-6 u-text-grunge | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Apply now!</h1>
+174 | <h2 class="headline  | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Current Openings</h2>
+178 | <p><strong>Illinois</strong></p>
+178 | <p><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9312b3af-213f-40b9-a7c9-dd55c565d871&amp;ccId=19000101_000001&amp;jobId=512783&amp;source=CC2&amp;lang=en_US" rel="noopener noreferrer" target="_blank">Area Sales Manager - Central Illinois | Remote</a></p>
+178 | <p><strong>Nebraska</strong></p>
+178 | <p><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9312b3af-213f-40b9-a7c9-dd55c565d871&amp;ccId=19000101_000001&amp;jobId=948990&amp;source=CC2&amp;lang=en_US" rel="noopener noreferrer" target="_blank">Accounts Payable Specialist | Omaha, NE</a></p>
+178 | <p> </p>
+178 | <p><i>Farmers National Company is an Equal Opportunity Employer.</i></p>
+184 | <h2 class="headline  | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Current Openings</h2>
+184 | <p><strong>Illinois</strong></p>
+184 | <p><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9312b3af-213f-40b9-a7c9-dd55c565d871&amp;ccId=19000101_000001&amp;jobId=512783&amp;source=CC2&amp;lang=en_US" rel="noopener noreferrer" target="_blank">Area Sales Manager - Central Illinois | Remote</a></p>
+184 | <p><strong>Nebraska</strong></p>
+184 | <p><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9312b3af-213f-40b9-a7c9-dd55c565d871&amp;ccId=19000101_000001&amp;jobId=948990&amp;source=CC2&amp;lang=en_US" rel="noopener noreferrer" target="_blank">Accounts Payable Specialist | Omaha, NE</a></p>
+184 | <p> </p>
+184 | <p><i>Farmers National Company is an Equal Opportunity Employer.</i></p>
+184 | <h2 class="headline  | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Benefits</h2>
+188 | <p>Farmers National Company strives to provide a wide range of competitive financial benefits and health and well-being benefits to fit the needs of associates and their families including:</p>
+194 | <h2 class="headline  | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Benefits</h2>
+194 | <p>Farmers National Company strives to provide a wide range of competitive financial benefits and health and well-being benefits to fit the needs of associates and their families including:</p>
+194 | <h2 class="headline  | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">We are proud to be 100% employee owned!</h2>
+198 | <p>Our roots run deep. The legacy of our company founders is carried on today by our employee owners and associates. Learn about our history and how we have become the nation's leading landowner services company. <br /></p>
+204 | <h2 class="headline  | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">We are proud to be 100% employee owned!</h2>
+204 | <p>Our roots run deep. The legacy of our company founders is carried on today by our employee owners and associates. Learn about our history and how we have become the nation's leading landowner services company. <br /></p>
+204 | <p><em>This employer participates in <strong><a href="https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf" target="_blank" rel="noreferrer noopener">E-Verify</a></strong>.</em></p>
+210 | <p><em>This employer participates in <strong><a href="https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf" target="_blank" rel="noreferrer noopener">E-Verify</a></strong>.</em></p>
+213 | <h2 class="headline u-text-grunge | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Connect with an expert that knows your area.</h2>
+279 | <p class="u-t-color-neutrals-primary-500 u-box-inline u-gap-bottom-300 | md:u-gap-bottom-0 md:u-gap-right-500">
+				&copy; <span id="currentYear"></span> Farmers National Company
+				<script>document.getElementById("currentYear").textContent = new Date().getFullYear();</script></p>

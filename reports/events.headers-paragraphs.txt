@@ -1,0 +1,92 @@
+﻿78 | <path d="M200-160v-366L88-440l-48-64 440-336 160 122v-82h120v174l160 122-48 64-112-86v366H560v-240H400v240H200Zm200-399h160q0-32-24-52.5T480-632q-32 0-56 20.5T400-559Z"/></svg></a></li><li class=""><a
+                data-header-link
+                href="farm-and-ranch/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Farm &amp; Ranch
+                            </a></li><li class=""><a
+                data-header-link
+                href="real-estate/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Real Estate
+                            </a></li><li class=""><a
+                data-header-link
+                href="energy/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Energy
+                            </a></li><li class=""><a
+                data-header-link
+                href="appraisal/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Appraisals
+                            </a></li><li class=""><a
+                data-header-link
+                href="forestry/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Forestry
+                            </a></li><li class=""><a
+                data-header-link
+                href="insurance/index.html"
+                target="_self"
+                class="  u-weight-demi"
+            >
+                                    Insurance
+                            </a></li><li class=""><a
+                data-header-link
+                href="https://www.huntingleasenetwork.com/"
+                target="_blank"
+                class="  u-weight-demi"
+            >
+                                    HLN
+                            </a></li><li class=""><a
+                data-header-link
+                href="https://www.fncagstock.com/"
+                target="_blank"
+                class="  u-weight-demi"
+            >
+                                    FNC Securities
+                            </a></li></ul></nav><nav aria-label="Primary Navigation" class="b-header__primaryNav | c-flow u-flow-space-600 | u-flex-justify-between u-flex-basis-100 u-text-1 | lg:u-flex-order-3 lg:u-flex-align-center lg:u-text-0"><a href="index.html" class="b-header__logo | u-box-hidden | lg:u-box-flex" data-header-link><img src="https://cdn.farmersnational.com/assets/images/logos/Farmers-National-Company-Logo.svg" alt="Farmers National Company Logo"/></a><ul class="b-header__primaryNav__linksList | u-box-flex u-flex-dir-column u-gap-top-0 | lg:u-flex-dir-row u-full lg:u-flex-justify-center" role="list"><li class="b-header__primaryNav__linksList__item | u-box-flex | lg:u-gap-inline-400"><a
+                        href="news.html"
+                        class="b-header__primaryNav__linksList__item__anchor | u-box-flex u-flex-align-center u-pad-block-400 u-pad-inline-400 | lg:u-pad-inline-0 lg:u-pad-block-300 "
+                        data-header-link data-has-children="false"
+                                                     href="news.html"
+                                            ><span>News</span></a></li><li class="b-header__primaryNav__linksList__item | u-box-flex | lg:u-gap-inline-400"><a
+                        href="events.html"
+                        class="b-header__primaryNav__linksList__item__anchor | u-box-flex u-flex-align-center u-pad-block-400 u-pad-inline-400 | lg:u-pad-inline-0 lg:u-pad-block-300 u-t-color-core-primary"
+                        data-header-link data-has-children="false"
+                                                     href="events.html"
+                                            ><span>Events</span></a></li><li class="b-header__primaryNav__linksList__item | u-box-flex | lg:u-gap-inline-400"><a
+                        href="our-story.html"
+                        class="b-header__primaryNav__linksList__item__anchor | u-box-flex u-flex-align-center u-pad-block-400 u-pad-inline-400 | lg:u-pad-inline-0 lg:u-pad-block-300 "
+                        data-header-link data-has-children="true"
+                                                     href="our-story.html"
+                                            ><span>Our Story</span><svg class='b-icon '><use href='svg/sprite.svg#chevron-up'></use></svg></a><div class="b-header__primaryNav__linksList__item__subnav"><div class="c-wrapper c-switcher | c-wrapper--sideBreak"><div class='lg:u-max-width-50'><p class="b-header__primaryNav__linksList__item__subnav__headline | text-2 u-box-hidden u-gap-top-600 u-gap-bottom-200 u-weight-demi | lg:u-box-flex">
+                                    Our Story
+                                </p>
+171 | <h1 class="headline u-text-grunge | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">2025 Events</h1>
+171 | <h2 class="headline | u-text-5 u-leading-short u-weight-extra-bold u-t-color-core-primary-500 u-gap-bottom-700">Coming up next</h2>
+173 | <p class="eyebrow | u-t-color-core-primary-500 u-weight-extra-bold u-bg-grunge"><span>Workshop</span></p>
+179 | <p class="eyebrow | u-t-color-core-primary-500 u-weight-extra-bold u-bg-grunge"><span>Workshop</span></p>
+185 | <p class="eyebrow | u-t-color-core-primary-500 u-weight-extra-bold u-bg-grunge"><span>Workshop</span></p>
+191 | <p class="eyebrow | u-t-color-core-primary-500 u-weight-extra-bold u-bg-grunge"><span>Workshop</span></p>
+195 | <h2 class="headline | u-text-5 u-leading-short u-weight-extra-bold u-t-color-copper u-gap-bottom-700">More Events</h2>
+195 | <p class="sm:col-span-2 md:col-span-3">There are currently no events that match your query.</p>
+195 | <h2 class="headline  | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Don't Miss Out: Join Our Land Ownership Events</h2>
+195 | <p>Farmers National Company offers a range of events focused on educating you about land ownership needs. Join us for informative sessions on estate planning, the agricultural economy, real estate, grain marketing, farm leasing, and more. Don’t miss out on the opportunity to attend a meeting near you!</p>
+201 | <h2 class="headline  | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Don't Miss Out: Join Our Land Ownership Events</h2>
+201 | <p>Farmers National Company offers a range of events focused on educating you about land ownership needs. Join us for informative sessions on estate planning, the agricultural economy, real estate, grain marketing, farm leasing, and more. Don’t miss out on the opportunity to attend a meeting near you!</p>
+205 | <p class="eyebrow eyebrow--fncCorporate eyebrow--clear u-t-color-neutrals-tertiary-100 | u-tt-upper u-weight-extra-bold u-text-0 u-box-inline-block u-pad-inline-block u-bg-grunge"><span>Event Attendee Testimonial</span></p>
+205 | <p style="margin-left:0px;">"What a fantastic event/morning. Well done! The speakers kept on schedule, and I’m very appreciative for their time and for those of you that planned the event. Besides the program, the food and amenities were fantastic as well". - Chris Nelson</p>
+208 | <h2 class="headline u-text-grunge | u-text-5 u-leading-short u-weight-extra-bold u-t-color-neutrals-primary-500">Connect with an expert that knows your area.</h2>
+274 | <p class="u-t-color-neutrals-primary-500 u-box-inline u-gap-bottom-300 | md:u-gap-bottom-0 md:u-gap-right-500">
+				&copy; <span id="currentYear"></span> Farmers National Company
+				<script>document.getElementById("currentYear").textContent = new Date().getFullYear();</script></p>
